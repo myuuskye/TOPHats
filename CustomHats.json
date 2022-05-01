@@ -234,6 +234,18 @@
             "flipresource": "ECHO_adaptive_flip.png",
             "climbresource": "ECHO_climb.png",
             "adaptive": true
+        },
+                {
+            "name": "スカイ",
+            "author": "スカイ",
+            "condition": "None",
+            "resource": "front.png",
+            "backflipresource": "front.png",
+            "backresource": "front.png",
+            "flipresource": "front.png",
+            "climbresource": "front.png",
+            "bounce": true,
+            "adaptive": true
         }
     ]
 }
